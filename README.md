@@ -21,7 +21,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 #### SUBIR SERVIDOR 
-Comando para subir o servidor PHP local
+Comando para subir o servidor PHP local.
 
 'php -S localhost:8000 -t public'
 
